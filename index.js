@@ -170,6 +170,7 @@ for (let sayi in object) {
 console.log("Test:" + tekraredensayilar);
 
 /* kodlar buraya */
+//
 
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
 
